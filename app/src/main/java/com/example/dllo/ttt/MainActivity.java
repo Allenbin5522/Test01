@@ -11,5 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //新改的东西
+        //开平也完成
+
     }
+
+
+
+
 }
